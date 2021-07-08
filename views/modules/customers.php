@@ -38,7 +38,7 @@ if($_SESSION["profile"] == "manager"){
         </button>
 
       </div>
-      <!-- <div class="box-body">
+      <div class="box-body">
         <table class="table table-bordered table-striped dt-responsive tables" width="100%">
        
           <thead>
@@ -114,7 +114,7 @@ if($_SESSION["profile"] == "manager"){
 
         </table>
 
-      </div> -->
+      </div>
     
     </div>
 

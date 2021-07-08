@@ -23,7 +23,7 @@
 			</li>';
 		}
 
-		if($_SESSION["profile"] == "administrator" || $_SESSION["profile"] == "staff"){
+		if($_SESSION["profile"] == "administrator" || $_SESSION["profile"] == "waiter"){
 			echo '
 
 			<li>
@@ -35,7 +35,7 @@
 
 		}
 
-		if($_SESSION["profile"] == "administrator" || $_SESSION["profile"] == "manager"){
+		if($_SESSION["profile"] == "administrator" || $_SESSION["profile"] == "chef"){
 
 			echo '
 
@@ -55,7 +55,7 @@
 
 		}
 
-		if($_SESSION["profile"] == "administrator" || $_SESSION["profile"] == "staff"){
+		if($_SESSION["profile"] == "administrator" || $_SESSION["profile"] == "waiter"){
 
 			echo'
 

@@ -173,8 +173,8 @@
 
                   <option value="">Select Position</option>
                   <option value="administrator">Administrator</option>
-                  <option value="manager">Manager</option>
-                  <option value="staff">Staff</option>
+                  <option value="Chef">Chef</option>
+                  <option value="waiter">Waiter</option>
 
                 </select>
 
@@ -249,7 +249,7 @@
 
               <div class="input-group">
 
-                <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                <span class="input-group-addon"><i class="fa fa-user"></i></span>
 
                 <input class="form-control input-lg" type="text" id="EditUser" name="EditUser" value="" readonly>
 
@@ -277,14 +277,14 @@
 
               <div class="input-group">
 
-                <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                <span class="input-group-addon"><i class="fa fa-tags"></i></span>
 
                 <select class="form-control input-lg" name="EditProfile">
 
                   <option value="" id="EditProfile" placeholder="Edit Position"></option>
                   <option value="administrator">Administrator</option>
-                  <option value="manager">Manager</option>
-                  <option value="staff">Staff</option>
+                  <option value="chef">Chef</option>
+                  <option value="waiter">Waiter</option>
 
                 </select>
 

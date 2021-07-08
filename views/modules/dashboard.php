@@ -72,7 +72,7 @@
            
         <?php
 
-        if($_SESSION["profile"] =="manager" || $_SESSION["profile"] =="staff"){
+        if($_SESSION["profile"] =="chef" || $_SESSION["profile"] =="waiter"){
 
            echo '<div class="box box-success">
 

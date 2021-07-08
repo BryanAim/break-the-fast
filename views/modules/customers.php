@@ -157,7 +157,7 @@ if($_SESSION["profile"] == "manager"){
 
               <div class="input-group">
 
-                <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                <span class="input-group-addon"><i class="fa fa-credit-card"></i></span>
                 <input class="form-control input-lg" type="number" min="0" name="newId" placeholder="ID Number" required>
 
               </div>
@@ -168,7 +168,7 @@ if($_SESSION["profile"] == "manager"){
 
               <div class="input-group">
 
-                <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                <span class="input-group-addon"><i class="fa fa-home"></i></span>
                 <input class="form-control input-lg" type="text" name="newAddress" placeholder="Address" required>
 
               </div>
@@ -212,7 +212,7 @@ if($_SESSION["profile"] == "manager"){
 
               <div class="input-group">
 
-                <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                <span class="input-group-addon"><i class="fa fa-money"></i></span>
                 <input class="form-control input-lg" type="number" min="0" name="newDiscount" placeholder="Discount" required>
 
               </div>

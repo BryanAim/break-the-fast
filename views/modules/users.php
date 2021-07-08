@@ -130,7 +130,7 @@
 
                 <span class="input-group-addon"><i class="fa fa-user"></i></span>
 
-                <input class="form-control input-lg" type="text" name="newName" placeholder="Add Name" required>
+                <input class="form-control input-lg" type="text" name="newName" placeholder="Add Full Name" required>
 
               </div>
 
@@ -141,7 +141,7 @@
 
               <div class="input-group">
 
-                <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                <span class="input-group-addon"><i class="fa fa-user-o"></i></span>
 
                 <input class="form-control input-lg" type="text" id="newUser" name="newUser" placeholder="Add Username" required>
 
@@ -167,7 +167,7 @@
 
               <div class="input-group">
 
-                <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                <span class="input-group-addon"><i class="fa fa-tags"></i></span>
 
                 <select class="form-control input-lg" name="newProfile">
 

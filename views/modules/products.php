@@ -20,7 +20,7 @@ if($_SESSION["profile"] == "waiter"){
 
     <h1>
 
-      Product management
+      Food management
 
     </h1>
 
@@ -32,7 +32,7 @@ if($_SESSION["profile"] == "waiter"){
 
       <div class="box-header with-border">
 
-        <button class="btn btn-primary" data-toggle="modal" data-target="#addProduct">Add Product</button>
+        <button class="btn btn-primary" data-toggle="modal" data-target="#addProduct">Add Food</button>
 
       </div>
 
@@ -46,7 +46,7 @@ if($_SESSION["profile"] == "waiter"){
              
              <th style="width:10px">#</th>
              <th>Code</th>
-             <th>Product</th>
+             <th>Food</th>
              <th>Category</th>
              <th>Stock</th>
              <th>Buying price</th>

@@ -49,7 +49,7 @@
 			<li>
 				<a href="products">
                     <i class="fa fa-coffee"></i>
-					<span>Products</span>
+					<span>Foods</span>
 				</a>
 			</li>';
 

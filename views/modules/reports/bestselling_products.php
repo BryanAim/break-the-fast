@@ -17,7 +17,7 @@ $salesTotal = ProductsController::sumOfSalesController();
 
     <div class="box-header with-border">
 
-        <h3 class="box-title">Best selling products</h3>
+        <h3 class="box-title">Best selling Foods</h3>
     </div>
 
 

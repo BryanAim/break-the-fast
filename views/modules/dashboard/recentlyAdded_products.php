@@ -12,7 +12,7 @@ $products = ProductsController::ShowProductsController($item, $value, $order);
 
     <div class="box-header with-border">
 
-        <h3 class="box-title">Recently Added Products</h3>
+        <h3 class="box-title">Recently Added Foods</h3>
 
         <div class="box-tools pull-right">
 
@@ -54,7 +54,7 @@ $products = ProductsController::ShowProductsController($item, $value, $order);
 
     <div class="box-footer text-center">
     
-    <a href="products" class="uppercase">View All Products</a>
+    <a href="products" class="uppercase">View All Foods</a>
     
     </div>
 

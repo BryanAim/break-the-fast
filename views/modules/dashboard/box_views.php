@@ -106,7 +106,7 @@ $totalProducts = count($products);
 
             <h3><?php echo number_format($totalProducts); ?></h3>
 
-            <p>Products</p>
+            <p>Foods</p>
         
         </div>
 

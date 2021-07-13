@@ -14,7 +14,7 @@ if($_SESSION["profile"] == "chef"){
 
 ?>
 
-<!-- <div class="content-wrapper">
+<div class="content-wrapper">
 
   <section class="content">
 
@@ -26,35 +26,35 @@ if($_SESSION["profile"] == "chef"){
 
           <div class="box-header with-border"></div>
 
-          <form role="form" method="post" class="saleForm">  -->
+          <form role="form" method="post" class="saleForm"> 
           
           <!-- Sale Form --> 
 
-            <!-- <div class="box-body">
+            <div class="box-body">
                 
-                <div class="box"> -->
+                <div class="box">
 
                     <!-- Employee Name -->              
-                    <!-- <div class="form-group">
+                    <div class="form-group">
 
                       <div class="input-group">
                         
                         <span class="input-group-addon"><i class="fa fa-user"></i></span>
 
-                        <input type="text" class="form-control" name="newSeller" id="newSeller" value="<?php echo $_SESSION["name"]; ?>" readonly> -->
+                        <input type="text" class="form-control" name="newSeller" id="newSeller" value="<?php echo $_SESSION["name"]; ?>" readonly>
                         
                          <!-- Variable Session Name -->
 
-                        <!-- <input type="hidden" name="idSeller" value="<?php echo $_SESSION["id"]; ?>">  -->
+                        <input type="hidden" name="idSeller" value="<?php echo $_SESSION["id"]; ?>"> 
                         
                         <!-- ID Code for Database -->
 
-                      <!-- </div> -->
+                      </div>
 
-                    <!-- </div> -->
+                    </div>
 
                     <!-- Receipt Number -->
-                    <!-- <div class="form-group">
+                    <div class="form-group">
 
                       <div class="input-group">
                         
@@ -92,10 +92,10 @@ if($_SESSION["profile"] == "chef"){
 
                       </div>
 
-                    </div> -->
+                    </div>
 
                     <!-- Table Number -->              
-                    <!-- <div class="form-group">
+                    <div class="form-group">
 
                       <div class="input-group">
                         
@@ -105,10 +105,10 @@ if($_SESSION["profile"] == "chef"){
 
                       </div>
 
-                    </div> -->
+                    </div>
 
                     <!-- Customer Number -->              
-                    <!-- <div class="form-group">
+                    <div class="form-group">
 
                       <div class="input-group">
                                       
@@ -126,18 +126,18 @@ if($_SESSION["profile"] == "chef"){
                       
                       </div>
                                 
-                    </div> -->
+                    </div>
 
                     <!-- Products -->
-                    <!-- <div class="form-group row newProduct"></div>
+                    <div class="form-group row newProduct"></div>
 
                     <input type="hidden" name="productsList" id="productsList">
 
-                    <hr> -->
+                    <hr>
 
                     <!-- Total -->
 
-                    <!-- <div class="row">
+                    <div class="row">
                       
                       <div class="col-xs-8 pull-right">
 
@@ -178,11 +178,11 @@ if($_SESSION["profile"] == "chef"){
                                   
                                   <input type="text" class="form-control" name="newSaleTotal" id="newSaleTotal" placeholder="00000" totalSale="" readonly required>
 
-                                  <input type="hidden" name="saleTotal" id="saleTotal" required>  -->
+                                  <input type="hidden" name="saleTotal" id="saleTotal" required> 
                                   
                                   <!-- total sale without format to save in database -->
 
-                                <!-- </div>
+                                </div>
 
                               </td>
 
@@ -255,7 +255,7 @@ if($_SESSION["profile"] == "chef"){
                       
                     </div>
 
-                    <hr> -->
+                    <hr>
 
                     <!-- Payment Method -->
 

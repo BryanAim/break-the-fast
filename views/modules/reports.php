@@ -79,7 +79,7 @@ if($_SESSION["profile"] == "Chef" || $_SESSION["profile"] == "Waiter"){
 
         </div>
 
-        <div class="col-md-6 col-xs-12">
+        <!-- <div class="col-md-6 col-xs-12">
              
             <?php
 
@@ -87,9 +87,9 @@ if($_SESSION["profile"] == "Chef" || $_SESSION["profile"] == "Waiter"){
 
             ?>
  
-        </div>
+        </div> -->
 
-        <div class="col-md-6 col-xs-12">
+        <!-- <div class="col-md-6 col-xs-12">
              
             <?php
 
@@ -97,9 +97,9 @@ if($_SESSION["profile"] == "Chef" || $_SESSION["profile"] == "Waiter"){
 
             ?>
  
-        </div>
+        </div> -->
 
-        <div class="col-md-6 col-xs-12">
+        <!-- <div class="col-md-6 col-xs-12">
              
             <?php
 
@@ -107,7 +107,7 @@ if($_SESSION["profile"] == "Chef" || $_SESSION["profile"] == "Waiter"){
 
             ?>
  
-        </div>
+        </div> -->
 
       </div>
 

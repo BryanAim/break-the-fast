@@ -55,7 +55,7 @@ if($_SESSION["profile"] == "chef"){
 
       <div class="box-body">
 
-        <!-- <table class="table table-bordered table-striped dt-responsive tables" width="100%">
+        <table class="table table-bordered table-striped dt-responsive tables" width="100%">
        
           <thead>
            
@@ -159,7 +159,7 @@ if($_SESSION["profile"] == "chef"){
                               
                 </tbody>
 
-              </table> -->
+              </table>
 
               <?php
 

@@ -10,6 +10,10 @@
 
   <section class="content">
 
+  <div class="row">
+    <img src="views/images/Logo-full.png" alt="logo-breakthefast" width="330">
+  </div>
+
     <div class ="row">
 
       <?php

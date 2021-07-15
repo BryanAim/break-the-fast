@@ -259,7 +259,7 @@ if($_SESSION["profile"] == "chef"){
 
                     <!-- Payment Method -->
 
-                    <!-- <div class="form-group row">
+                    <div class="form-group row">
                       
                       <div>
 
@@ -293,11 +293,11 @@ if($_SESSION["profile"] == "chef"){
 
         </div>
 
-      </div> -->
+      </div>
 
 
       <!-- Product Buttons -->
-      <!-- <div class="col-lg-7 hidden-md hidden-sm hidden-xs">
+      <div class="col-lg-7 hidden-md hidden-sm hidden-xs">
         
           <div class="box box-warning">
             
@@ -508,4 +508,4 @@ if($_SESSION["profile"] == "chef"){
             $("#results").hide();
         }
     })
-</script> -->
+</script>

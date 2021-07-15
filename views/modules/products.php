@@ -17,6 +17,9 @@ if($_SESSION["profile"] == "waiter"){
 <div class="content-wrapper">
 
   <section class="content-header">
+  <div class="row">
+        <img src="views/images/breakthefast.png" alt="logo-breakthefast" width="330">
+      </div>
 
     <h1>
 

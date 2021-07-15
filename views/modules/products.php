@@ -69,7 +69,7 @@ if($_SESSION["profile"] == "waiter"){
 
 </div>
 
-<!-- Add Product -->
+<!-- Add Food-->
 <div id="addProduct" class="modal fade" role="dialog">
 
   <div class="modal-dialog">
@@ -82,7 +82,7 @@ if($_SESSION["profile"] == "waiter"){
 
           <button type="button" class="close" data-dismiss="modal">&times;</button>
 
-          <h4 class="modal-title">Add Product</h4>
+          <h4 class="modal-title">Add Food</h4>
 
         </div>
 
@@ -139,7 +139,7 @@ if($_SESSION["profile"] == "waiter"){
 
                 <span class="input-group-addon"><i class="fa fa-product-hunt"></i></span>
 
-                <input class="form-control input-lg" type="text" id="newDescription" name="newDescription" placeholder="Add Product" required>
+                <input class="form-control input-lg" type="text" id="newDescription" name="newDescription" placeholder="Add Food" required>
 
               </div>
 

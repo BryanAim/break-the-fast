@@ -178,6 +178,7 @@
                   <option value="administrator">Administrator</option>
                   <option value="Chef">Chef</option>
                   <option value="waiter">Waiter</option>
+                  <option value="cashier">Cashier</option>
 
                 </select>
 

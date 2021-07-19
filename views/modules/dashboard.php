@@ -76,7 +76,7 @@
            
         <?php
 
-        if($_SESSION["profile"] =="chef" || $_SESSION["profile"] =="waiter"){
+        if($_SESSION["profile"] =="chef" || $_SESSION["profile"] =="waiter" | $_SESSION["profile"] =="cashier"){
 
            echo '<div class="box box-success">
 

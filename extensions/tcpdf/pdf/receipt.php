@@ -83,14 +83,14 @@ $block1 = <<<EOF
 		
 		<tr>
 			
-			<td style="width:150px"><img src="images/logo-cellar.png"></td>
+			<td style="width:150px"><img src="images/breakthefast.png"></td>
 
 			<td style="background-color:white; width:140px">
 				
 				<div style="font-size:8.5px; text-align:right; line-height:15px;">
 					
 					<br>
-					ADDRESS: 12 Eglinton St, Galway
+					ADDRESS: Kenyatta avenue, Nakuru Kenya
 
                     <br>
                     EIRCODE: H91 D278
@@ -104,10 +104,10 @@ $block1 = <<<EOF
 				<div style="font-size:8.5px; text-align:right; line-height:15px;">
 					
 					<br>
-					PHONE: (091) 563 966
+					PHONE: +254 721 246 937
 					
 					<br>
-					thecellar.ie
+					breakthefast.com
 
 				</div>
 				
@@ -219,11 +219,11 @@ $block4 = <<<EOF
 				$item[quantity]
 			</td>
 
-			<td style="border: 1px solid #666; color:#333; background-color:white; width:100px; text-align:center">$ 
+			<td style="border: 1px solid #666; color:#333; background-color:white; width:100px; text-align:center">Ksh 
 				$unitValue
 			</td>
 
-			<td style="border: 1px solid #666; color:#333; background-color:white; width:100px; text-align:center">$ 
+			<td style="border: 1px solid #666; color:#333; background-color:white; width:100px; text-align:center">Ksh 
 				$totalProducts
 			</td>
 
